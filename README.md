@@ -31,3 +31,8 @@ Here, is the working:-
 - Note: It has been explained through the video for better understanding:-
 
 https://drive.google.com/file/d/1lKVBWgPcsAzOBzz5FRO4gkNdaPJRelq8/view?usp=sharing
+
+
+- Note:-
+
+ls, cd, cwd commands are implemented completely. DWD and UPD are implemented without encryption and decryption.
